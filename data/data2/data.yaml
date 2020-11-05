@@ -1,0 +1,5 @@
+train: ./data/train/images
+val: ./data/valid/images
+
+nc: 3
+names: ['Platelets', 'RBC', 'WBC']

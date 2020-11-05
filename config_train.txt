@@ -1,0 +1,4 @@
+J:/dl_dataset/test/0001;J:/dl_dataset/test/0002;J:/dl_dataset/test/0003;J:/dl_dataset/test/0004;J:/dl_dataset/test/0005;J:/dl_dataset/test/0006;
+J:/dl_dataset/test/bs_build_dn101_t4_iou_best.pt
+J:/dl_dataset/test/newModel.pt
+J:/dl_dataset/test/acc.txt

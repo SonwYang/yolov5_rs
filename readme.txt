@@ -1,0 +1,2 @@
+配置完config_train.txt后，运行train.py
+配置完config_test.txt后，运行test_concate.py
